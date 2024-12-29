@@ -8,7 +8,7 @@ Calculate the result and display it on the screen.
 Simple and responsive user interface.
 How to Use the Calculator
 1. Opening the Calculator
-After downloading the project files, locate the index.html file.
+After downloading the project files, locate the Basic Calculator.html file.
 Open the Basic Calculator.html file in any web browser (such as Chrome, Firefox, Safari, etc.) by double-clicking on it.
 2. Using the Calculator Interface
 The calculator has a straightforward layout, consisting of:
